@@ -17,3 +17,9 @@ yuyueugene84
 - 寫 Code
 - 追美劇
 - 睡懶覺
+
+我最討厭的程式語言
+--------------
+- javascript
+- assembly
+- VB
